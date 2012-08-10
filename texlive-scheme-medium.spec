@@ -1,13 +1,13 @@
-# revision 18615
+# revision 26477
 # category Scheme
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-medium
-Version:	20120307
+Version:	20120810
 Release:	1
-Summary:	medium scheme (plain, latex, recommended packages, some languages)
+Summary:	medium scheme (small + more packages and languages)
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
