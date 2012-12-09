@@ -1,13 +1,13 @@
-# revision 26477
+# revision 18615
 # category Scheme
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-medium
-Version:	20120810
+Version:	20120307
 Release:	1
-Summary:	medium scheme (small + more packages and languages)
+Summary:	medium scheme (plain, latex, recommended packages, some languages)
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
@@ -54,3 +54,11 @@ used European languages.
 %build
 
 %install
+
+
+%changelog
+* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120307-1
++ Revision: 783144
+- Import texlive-scheme-medium
+- Import texlive-scheme-medium
+
