@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-scheme-medium
 Version:	20120307
-Release:	1
+Release:	2
 Summary:	medium scheme (plain, latex, recommended packages, some languages)
 Group:		Publishing
 URL:		http://tug.org/texlive
