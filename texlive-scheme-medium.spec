@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-medium
-Version:	20131013
-Release:	9
+Version:	20170504
+Release:	1
 Summary:	medium scheme (small + more packages and languages)
 Group:		Publishing
 URL:		http://tug.org/texlive
