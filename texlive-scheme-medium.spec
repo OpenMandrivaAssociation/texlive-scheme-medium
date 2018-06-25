@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-medium
-Version:	20170504
+Version:	20180303
 Release:	1
 Summary:	medium scheme (small + more packages and languages)
 Group:		Publishing
