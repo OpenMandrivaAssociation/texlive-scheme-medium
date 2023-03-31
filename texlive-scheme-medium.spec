@@ -1,6 +1,6 @@
 Name:		texlive-scheme-medium
 Version:	54074
-Release:	1
+Release:	2
 Summary:	medium scheme (small + more packages and languages)
 Group:		Publishing
 URL:		http://tug.org/texlive
